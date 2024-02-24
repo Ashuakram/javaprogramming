@@ -1,0 +1,11 @@
+/*This program is used to print Hello world
+ This is my first program in java*/ 
+import java.io.*;
+class Demo1
+{
+	public static void main(String args[])
+	{
+		System.out.println("Hello"+" "+"world");
+		System.out.print("This is my first program in java");
+	}//main
+}//Demo1
